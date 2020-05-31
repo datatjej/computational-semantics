@@ -13,10 +13,11 @@
 
 # the corpus:
 # a collection of more-or-less gothic tales from Project Gutenberg
-demo_dir = "/Users/katrinerk/Desktop/demo_corpora_mini/"
+demo_dir = "../wikipedia.txt"
 
 
 ##########
+
 # Preprocessing:
 # Design decision:
 # We filter away stopwords,
