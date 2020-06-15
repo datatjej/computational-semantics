@@ -13,7 +13,7 @@
 
 # the corpus:
 # a collection of more-or-less gothic tales from Project Gutenberg
-demo_dir = "../wikipedia.txt"
+demo_dir = "../wikipedia"
 
 
 ##########
